@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# **WELCOME TO WONway**
 
-You can use the [editor on GitHub](https://github.com/phoenixprojectsoftware/wonway/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**WONway** is your gateway to everything *Half-Life WON.* From multiplayer access, to sounds, and to mods, this is every WON fan's heaven.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **PHASE ONE — GET INSTALLED**
+First, you need to get your WON games installed. So, grab your Half-Life big boxes, or the HL1 Anthology if that's your thing, and let's get started!
+## **1.1. INSTALL HALF-LIFE**
+We're just going to install the base game first. Most things you will install for pre-Steam GoldSource will requre Half-Life's `valve` folder as a
+base, so you may aswell get that sorted. You can use either the original version of the Game of the Year Edition. 
+We recommend leaving the installer on the default path, and leaving the network settings the same at the end.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phoenixprojectsoftware/wonway/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+When (or if) required, enter your CD Key.
+## **1.2. INSTALL EXPANSIONS & MODS**
+It's time to install your expansions & mods. Yep, all of them. 
